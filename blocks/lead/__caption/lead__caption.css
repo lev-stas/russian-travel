@@ -6,3 +6,9 @@
     margin: 8px 0 0 0;
     ;
 }
+
+@media screen and (max-width: 800px) {
+    .lead__caption {
+        margin: 8px 0 0 16px;
+    }
+}
