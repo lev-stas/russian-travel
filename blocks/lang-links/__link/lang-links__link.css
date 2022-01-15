@@ -16,3 +16,10 @@
 .lang-links__link:hover {
     animation: scaling 0.1s linear forwards;
 }
+
+@media screen and (max-width: 560px) {
+    .lang-links__link {
+        font-size: 18px;
+        line-height: 20px;
+    }
+}

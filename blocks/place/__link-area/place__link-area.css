@@ -1,9 +1,9 @@
-.places__place_link-area {
+.place__link-area {
     align-self: end;
 }
 
 @media screen and (max-width: 560px) {
-    .places__place_link-area {
+    .place__link-area {
         margin-left: 16px;
     }
 }
