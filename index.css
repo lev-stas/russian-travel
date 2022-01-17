@@ -1,7 +1,6 @@
 @import url(./vendor/normalize.css);
 @import url(./vendor/fonts/fonts.css);
 @import url(./blocks/page/page.css);
-@import url(./blocks/border.css);
 @import url(./blocks/header/header.css);
 @import url(./blocks/logo/logo.css);
 @import url(./blocks/lang-links/lang-links.css);
@@ -9,7 +8,6 @@
 @import url(./blocks/lang-links/__link/_state/lang-links__link_state_active.css);
 @import url(./blocks/scaling/scaling.css);
 @import url(./blocks/lead/lead.css);
-@import url(./blocks/lead/__text/lead__text.css);
 @import url(./blocks/lead/__title/lead__title.css);
 @import url(./blocks/lead/__subtitle/lead__subtitle.css);
 @import url(./blocks/lead/__illustration/lead__illustration.css);
